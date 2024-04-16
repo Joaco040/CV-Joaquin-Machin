@@ -1,0 +1,13 @@
+.centrarTXT{
+        text-align: center
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(159, 189, 218, 0.822);
+    
+}
